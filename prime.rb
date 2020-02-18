@@ -1,5 +1,5 @@
 # Add  code here!
-def prime(num)
+def prime?(num)
 
   # return booleean - is number prime?
 
@@ -8,4 +8,4 @@ def prime(num)
   true
 
 
-end 
+end
